@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Arduino_MountingHole") (type "KiCad") (uri "${KIPRJMOD}/Arduino_MountingHole.pretty") (options "") (descr ""))
+	(lib (name "my_BMS") (type "KiCad") (uri "P:/kicad bms/my_BMS.pretty") (options "") (descr ""))
+)

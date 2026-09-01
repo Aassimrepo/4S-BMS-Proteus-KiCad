@@ -1,0 +1,331 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-07-03T00:15:44
+
+BeginCmp
+TimeStamp = 01f9fdfd-4e00-42d4-ae05-e9253351b923
+Path = 
+Reference = kibuzzard-62BC3836;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3836;
+EndCmp
+
+BeginCmp
+TimeStamp = 0334aa7e-293b-42c9-aec2-8a930eed6971
+Path = /7595b195-1f5d-4cd7-b3a3-7d8b2005b421
+Reference = H2;
+ValeurCmp = HOLE_3.2mm;
+IdModule  = e-radionica.com footprinti:HOLE_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 03fb4fec-0346-48bb-bfa4-755fe7feebce
+Path = 
+Reference = kibuzzard-62BC3797;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3797;
+EndCmp
+
+BeginCmp
+TimeStamp = 090a0974-aba3-41c4-959f-2b83de07911d
+Path = /cb381139-6573-4e1a-a168-3c5ba08b42e2
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = 1dbeecd8-f262-45fa-aed9-ef3d16d934e8
+Path = /03c95cd5-1ffa-4c96-99ca-5b9813fd481e
+Reference = H1;
+ValeurCmp = HOLE_3.2mm;
+IdModule  = e-radionica.com footprinti:HOLE_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 228ced18-fa6e-44c2-b8f1-ec6913f41fce
+Path = /a7e37d18-1127-4660-9ce8-d85bbfe79f39
+Reference = U1;
+ValeurCmp = ACS712;
+IdModule  = e-radionica.com footprinti:SOIC-8-SWB;
+EndCmp
+
+BeginCmp
+TimeStamp = 2bbea1b1-e705-490b-b432-497187335772
+Path = 
+Reference = kibuzzard-6254242B;
+ValeurCmp = G***;
+IdModule  = kibuzzard-6254242B;
+EndCmp
+
+BeginCmp
+TimeStamp = 43502c96-d2bd-4d61-b158-0e8ae872272c
+Path = 
+Reference = kibuzzard-62BC34F4;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC34F4;
+EndCmp
+
+BeginCmp
+TimeStamp = 4aac0332-f770-48bf-84c6-1f15cb6965e6
+Path = /6103f03a-b747-4f72-a981-f1b580ce937c
+Reference = K3;
+ValeurCmp = DSHP03TS-S;
+IdModule  = e-radionica.com footprinti:DSHP03TS-S;
+EndCmp
+
+BeginCmp
+TimeStamp = 4cdf9add-26ea-46b7-845d-c4e6d50988e9
+Path = /d5af2db4-b569-4dc9-acb8-2caf94cc6a0e
+Reference = JP1;
+ValeurCmp = SMD_JUMPER;
+IdModule  = e-radionica.com footprinti:SMD_JUMPER;
+EndCmp
+
+BeginCmp
+TimeStamp = 53d8d082-bcb8-477b-a00b-043a5d6aa65e
+Path = 
+Reference = kibuzzard-62BC3718;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3718;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e47d5ea-8ee5-421c-a9c4-1841b612aa37
+Path = /245eee0b-0c21-47e2-ab21-7dcbe7dc009b
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = 6ef3f926-db94-44c7-8e1c-b0a25d59f372
+Path = /6ef10c5f-fd6d-4cb4-9d59-5dee6a9e4dee
+Reference = C1;
+ValeurCmp = 10n;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = 7cefd4c5-9f13-4030-9271-310bf5efe2cd
+Path = /531b2e49-b391-407b-adfd-664a1ff9410e
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = 7cf2462a-72d1-4241-99c2-2ca39cb00056
+Path = 
+Reference = kibuzzard-62BC3508;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3508;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e3e2cde-20d1-44f0-b20b-032c35805437
+Path = /156125b2-552b-4a74-be84-b9094515bbe4
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = 81a33a35-3519-4444-bf16-0e00c9ba0141
+Path = 
+Reference = kibuzzard-62CC21A6;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62CC21A6;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c478b8f-2e77-473c-ba8c-4028e2f60fc1
+Path = /55ae0fee-5afd-48e9-af16-99960f34b8f2
+Reference = R5;
+ValeurCmp = 100k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c990246-4003-4b45-9895-ca05aca2fe11
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Soldered Graphics:Logo-Back-OSH-3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 93c3af21-b55d-48d7-8765-064dd08a2bab
+Path = 
+Reference = kibuzzard-62542455;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62542455;
+EndCmp
+
+BeginCmp
+TimeStamp = 9fb232b4-6992-4b08-a0ab-98f96df4e168
+Path = /c9dc4680-d5cc-43a4-86cd-8309ea4f4d43
+Reference = FD1;
+ValeurCmp = FIDUCIAL;
+IdModule  = e-radionica.com footprinti:FIDUCIAL_23;
+EndCmp
+
+BeginCmp
+TimeStamp = a5996e8d-ef22-4601-884e-54486f42cf99
+Path = /e2ce4848-d1f0-4f84-9ed6-a8154a3c82aa
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = aac4c37d-21df-4cd6-b20d-a78d09f80361
+Path = /a0aecdca-cc93-4d7f-a7ee-00a5d9ff527f
+Reference = R6;
+ValeurCmp = 200k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = aad66790-b4f9-4c64-b9b6-4e449222d535
+Path = 
+Reference = kibuzzard-62BC3682;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3682;
+EndCmp
+
+BeginCmp
+TimeStamp = ac319431-30d7-4293-ad7a-69d5fb05b92d
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Soldered Graphics:Logo-Front-Soldered-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c479b74a-b577-4ff9-87db-64ae40296cd0
+Path = /7075d203-abef-487d-98d5-0c310316cd45
+Reference = C4;
+ValeurCmp = 2u2;
+IdModule  = e-radionica.com footprinti:0603C;
+EndCmp
+
+BeginCmp
+TimeStamp = c664e17d-ed96-4d60-9c70-6cf5f1d5899b
+Path = /4b811f78-daa0-4581-972a-364c55a02ee4
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = cda56955-7483-4fc5-b8aa-3b9b7276f080
+Path = /2237ae18-55e5-4dc3-bd9a-815000f729c7
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = d4a91977-6b2b-4b8c-91dc-089f3242a0af
+Path = /4aef16d0-ca98-4d5f-a6a3-df909f1d26dc
+Reference = U2;
+ValeurCmp = OPA344;
+IdModule  = e-radionica.com footprinti:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = d7168347-b30c-4362-89a5-c22220ecbed6
+Path = 
+Reference = REF**;
+ValeurCmp = Logo-Front-SolderedFULL-20mm;
+IdModule  = Soldered Graphics:Logo-Back-SolderedFULL-20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d78c9102-a54b-4afc-80fa-d13ba22d7279
+Path = 
+Reference = kibuzzard-62BC34C1;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC34C1;
+EndCmp
+
+BeginCmp
+TimeStamp = dafa3b2c-5cc2-4a10-8d2b-2233176f0091
+Path = 
+Reference = kibuzzard-62BC38A6;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC38A6;
+EndCmp
+
+BeginCmp
+TimeStamp = db79efc0-e826-4a1c-87e6-cbe23d1836c8
+Path = /55dd2782-9074-4269-a9f1-e10c43f5bd62
+Reference = U3;
+ValeurCmp = OPA344;
+IdModule  = e-radionica.com footprinti:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = e3aaeae0-5e80-4963-804b-ea515b159d8e
+Path = /155d6048-5450-4fe2-b2c6-bcd0827b9743
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = e-radionica.com footprinti:0603R;
+EndCmp
+
+BeginCmp
+TimeStamp = f43ab21d-7cba-4674-a157-107bac527bbc
+Path = 
+Reference = kibuzzard-62BC3727;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62BC3727;
+EndCmp
+
+BeginCmp
+TimeStamp = f686969e-a48e-4566-adb4-2d21e0fc18db
+Path = /718c5875-49de-4e94-a319-3ca4a443984a
+Reference = K1;
+ValeurCmp = TERMINAL_KF235-5.0-2P;
+IdModule  = e-radionica.com footprinti:TERMINAL_KF235-5.0-2P;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f202007-49fc-48bf-b2f8-21e71f0c2885
+Path = 
+Reference = REF**;
+ValeurCmp = Version2.0.0.;
+IdModule  = Soldered Graphics:Version2.0.0.;
+EndCmp
+
+BeginCmp
+TimeStamp = 74302af9-136a-49a1-8382-127e07931b1c
+Path = /6b78fa10-d7e0-44cd-b558-71d7c01d3882
+Reference = K2;
+ValeurCmp = HEADER_MALE_4X1;
+IdModule  = e-radionica.com footprinti:HEADER_MALE_4X1;
+EndCmp
+
+BeginCmp
+TimeStamp = a080a125-85d8-4f5b-9337-ef20fe095b58
+Path = 
+Reference = kibuzzard-62CC223D;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62CC223D;
+EndCmp
+
+BeginCmp
+TimeStamp = bb9daf65-ddac-4d02-9496-0db71a8ee1c5
+Path = 
+Reference = kibuzzard-62CC224E;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62CC224E;
+EndCmp
+
+BeginCmp
+TimeStamp = f3992523-44c3-41e5-b8e9-6903f1e761b6
+Path = 
+Reference = kibuzzard-62CC2223;
+ValeurCmp = G***;
+IdModule  = kibuzzard-62CC2223;
+EndCmp
+
+EndListe
